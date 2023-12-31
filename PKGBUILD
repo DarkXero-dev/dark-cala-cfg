@@ -2,7 +2,7 @@
 pkgname=dark-cala-cfg
 _destname1="/etc"
 pkgver=3.3.0
-pkgrel=5
+pkgrel=6
 pkgdesc="calamares 3.3 Config for XeroLinux"
 arch=('any')
 url="https://github.com/DarkXero-dev"
